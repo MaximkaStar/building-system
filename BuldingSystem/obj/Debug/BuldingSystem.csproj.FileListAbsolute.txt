@@ -1,0 +1,2 @@
+C:\Users\Максим\Desktop\Новая папка\building_sustem\BuldingSystem\obj\Debug\BuldingSystem.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\building_sustem\BuldingSystem\obj\Debug\BuldingSystem.csproj.CoreCompileInputs.cache
